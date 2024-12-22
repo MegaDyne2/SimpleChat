@@ -1,0 +1,22 @@
+{
+  "MainUserID": "000000",
+  "hasMoreMessage": false,
+  "OthersID": [
+    "123456",
+    "777777"
+  ],
+  "Messages": [
+    {
+      "ID": 0,
+      "UserIndex": -1,
+      "Message": "The Main User is saying Something 1",
+      "Time": "2018-12-10T13:00:51.141Z"
+    },
+    {
+      "ID": 1,
+      "UserIndex": -1,
+      "Message": "The Main User is saying Something2",
+      "Time": "2018-12-10T13:01:51.141Z"
+    }
+  ]
+}

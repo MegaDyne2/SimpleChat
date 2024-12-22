@@ -1,0 +1,310 @@
+{
+  "MainUserID": "000000",
+  "hasMoreMessage": true,
+  "OthersID": [
+    "123456",
+    "777777"
+  ],
+  "Messages": [
+    {
+      "ID": 50,
+      "UserIndex": -1,
+      "Message": "The Main User is saying Something 50",
+      "Time": "2018-12-10T13:00:51.141Z"
+    },
+    {
+      "ID": 51,
+      "UserIndex": -1,
+      "Message": "The Main User is saying Something2",
+      "Time": "2018-12-10T13:01:51.141Z"
+    },
+    {
+      "ID": 52,
+      "UserIndex": -1,
+      "Message": "The Main User is saying Something3",
+      "Time": "2018-12-10T13:02:51.141Z"
+    },
+    {
+      "ID": 53,
+      "UserIndex": -1,
+      "Message": "The Main User is saying Something4",
+      "Time": "2018-12-10T13:03:51.141Z"
+    },
+    {
+      "ID": 54,
+      "UserIndex": -1,
+      "Message": "The Main User is saying Something5",
+      "Time": "2018-12-10T13:04:51.141Z"
+    },
+    {
+      "ID": 55,
+      "UserIndex": -1,
+      "Message": "The Main User is saying Something6",
+      "Time": "2018-12-10T13:05:51.141Z"
+    },
+    {
+      "ID": 56,
+      "UserIndex": -1,
+      "Message": "The Main User is saying Something7",
+      "Time": "2018-12-10T13:06:51.141Z"
+    },
+    {
+      "ID": 57,
+      "UserIndex": -1,
+      "Message": "The Main User is saying Something8",
+      "Time": "2018-12-10T13:07:51.141Z"
+    },
+    {
+      "ID": 58,
+      "UserIndex": -1,
+      "Message": "The Main User is saying Something9",
+      "Time": "2018-12-10T13:08:51.141Z"
+    },
+    {
+      "ID": 59,
+      "UserIndex": -1,
+      "Message": "The Main User is saying SomethingA",
+      "Time": "2018-12-10T13:09:51.141Z"
+    },
+    {
+      "ID": 60,
+      "UserIndex": -1,
+      "Message": "The Main User is saying SomethingB",
+      "Time": "2018-12-10T13:10:51.141Z"
+    },
+    {
+      "ID": 61,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:11:51.141Z"
+    },
+    {
+      "ID": 62,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:12:51.141Z"
+    },
+    {
+      "ID": 63,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:13:51.141Z"
+    },
+    {
+      "ID": 64,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:14:51.141Z"
+    },
+    {
+      "ID": 65,
+      "UserIndex": 0,
+      "Message": "The Main User is saying Something Break in the Middle of Person 0",
+      "Time": "2018-12-10T13:15:51.141Z"
+    },
+    {
+      "ID": 66,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:16:51.141Z"
+    },
+    {
+      "ID": 67,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:17:51.141Z"
+    },
+    {
+      "ID": 68,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:18:51.141Z"
+    },
+    {
+      "ID": 69,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:19:51.141Z"
+    },
+    {
+      "ID": 70,
+      "UserIndex": -1,
+      "Message": "The Main User is saying SomethingB",
+      "Time": "2018-12-10T13:20:51.141Z"
+    },
+    {
+      "ID": 71,
+      "UserIndex": 1,
+      "Message": "Other Person 1 Talking",
+      "Time": "2018-12-10T13:21:51.141Z"
+    },
+    {
+      "ID": 72,
+      "UserIndex": 1,
+      "Message": "Other Person 1 Talking",
+      "Time": "2018-12-10T13:22:51.141Z"
+    },
+    {
+      "ID": 73,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:23:51.141Z"
+    },
+    {
+      "ID": 74,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:24:51.141Z"
+    },
+    {
+      "ID": 75,
+      "UserIndex": -1,
+      "Message": "The Main User is saying Something",
+      "Time": "2018-12-10T13:25:51.141Z"
+    },
+    {
+      "ID": 76,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:26:51.141Z"
+    },
+    {
+      "ID": 77,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:27:51.141Z"
+    },
+    {
+      "ID": 78,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:28:51.141Z"
+    },
+    {
+      "ID": 79,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:29:51.141Z"
+    },
+    {
+      "ID": 80,
+      "UserIndex": -1,
+      "Message": "The Main User is saying SomethingB",
+      "Time": "2018-12-10T13:30:51.141Z"
+    },
+    {
+      "ID": 81,
+      "UserIndex": 1,
+      "Message": "Other Person 1 Talking",
+      "Time": "2018-12-10T13:31:51.141Z"
+    },
+    {
+      "ID": 82,
+      "UserIndex": 1,
+      "Message": "Other Person 1 Talking",
+      "Time": "2018-12-10T13:32:51.141Z"
+    },
+    {
+      "ID": 83,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:33:51.141Z"
+    },
+    {
+      "ID": 84,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:34:51.141Z"
+    },
+    {
+      "ID": 85,
+      "UserIndex": -1,
+      "Message": "The Main User is saying Something",
+      "Time": "2018-12-10T13:35:51.141Z"
+    },
+    {
+      "ID": 86,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:36:51.141Z"
+    },
+    {
+      "ID": 87,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:37:51.141Z"
+    },
+    {
+      "ID": 88,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:38:51.141Z"
+    },
+    {
+      "ID": 89,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:39:51.141Z"
+    },
+    {
+      "ID": 90,
+      "UserIndex": -1,
+      "Message": "The Main User is saying SomethingB",
+      "Time": "2018-12-10T13:40:51.141Z"
+    },
+    {
+      "ID": 91,
+      "UserIndex": 1,
+      "Message": "Other Person 1 Talking",
+      "Time": "2018-12-10T13:41:51.141Z"
+    },
+    {
+      "ID": 92,
+      "UserIndex": 1,
+      "Message": "Other Person 1 Talking",
+      "Time": "2018-12-10T13:42:51.141Z"
+    },
+    {
+      "ID": 93,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:43:51.141Z"
+    },
+    {
+      "ID": 94,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:44:51.141Z"
+    },
+    {
+      "ID": 95,
+      "UserIndex": -1,
+      "Message": "The Main User is saying Something",
+      "Time": "2018-12-10T13:45:51.141Z"
+    },
+    {
+      "ID": 96,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:46:51.141Z"
+    },
+    {
+      "ID": 97,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking",
+      "Time": "2018-12-10T13:47:51.141Z"
+    },
+    {
+      "ID": 98,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking\n 1\n 2\n 3\n multi line",
+      "Time": "2018-12-10T13:48:51.141Z"
+    },
+    {
+      "ID": 99,
+      "UserIndex": 0,
+      "Message": "Other Person 0 Talking id 99",
+      "Time": "2018-12-10T13:49:51.141Z"
+    }
+  ]
+}
